@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblocalizer.a  CMakeFiles/localizer.dir/debugging_helpers.cpp.o CMakeFiles/localizer.dir/helpers.cpp.o CMakeFiles/localizer.dir/localizer.cpp.o CMakeFiles/localizer.dir/simulate.cpp.o
+/usr/bin/ranlib liblocalizer.a

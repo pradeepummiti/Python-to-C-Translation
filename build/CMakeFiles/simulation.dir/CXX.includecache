@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pradeep/Documents/Udacity/Intro_to_Self_Driving_Cars/Pradeep_Python_to_CPP/debugging_helpers.h
+vector
+-
+
+/home/pradeep/Documents/Udacity/Intro_to_Self_Driving_Cars/Pradeep_Python_to_CPP/localizer.h
+vector
+-
+
+/home/pradeep/Documents/Udacity/Intro_to_Self_Driving_Cars/Pradeep_Python_to_CPP/simulate.h
+vector
+-
+
+/home/pradeep/Documents/Udacity/Intro_to_Self_Driving_Cars/Pradeep_Python_to_CPP/simulation.cpp
+iostream
+-
+vector
+-
+simulate.h
+/home/pradeep/Documents/Udacity/Intro_to_Self_Driving_Cars/Pradeep_Python_to_CPP/simulate.h
+debugging_helpers.h
+/home/pradeep/Documents/Udacity/Intro_to_Self_Driving_Cars/Pradeep_Python_to_CPP/debugging_helpers.h
+localizer.h
+/home/pradeep/Documents/Udacity/Intro_to_Self_Driving_Cars/Pradeep_Python_to_CPP/localizer.h
+
